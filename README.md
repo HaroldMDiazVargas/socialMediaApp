@@ -57,6 +57,7 @@ Set env variables on .env file and start the server on 9000
 - Responsive design using tailwind library 
 - Sidebar component
 - Infinite scroll
+- Filter by coincidence
 - Usages of pipes, directives, interceptors, validators
 
 
