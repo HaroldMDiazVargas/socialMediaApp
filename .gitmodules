@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/HaroldMDiazVargas/LinkedIn-Backend
+	url = https://github.com/HaroldMDiazVargas/backendSocialMedia
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/HaroldMDiazVargas/LinkedIn-Frontend
+	url = https://github.com/HaroldMDiazVargas/frontendSocialMedia
